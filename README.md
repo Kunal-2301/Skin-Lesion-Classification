@@ -6,8 +6,6 @@ An AI-powered skin lesion classification system that uses a custom Convolutional
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red.svg)
 
-To Download the Trained Model of this Project, visit [this link](https://drive.google.com/drive/folders/1QHJkjk5WVS-Ss3aYrkodBJjb5Frg9S0Z?usp=share_link). And Download both files and add it to your Project Directory.
-
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -156,6 +154,12 @@ pip install -r requirements.txt
    - `HAM10000_metadata.csv`
    - `HAM10000_images_part_1/` folder
    - `HAM10000_images_part_2/` folder
+
+### Step 5 (Optional): Already Trained Model
+1. To Download the Pre-Trained Model of this Project, visit [this link](https://drive.google.com/drive/folders/1QHJkjk5WVS-Ss3aYrkodBJjb5Frg9S0Z?usp=share_link).
+2. Download both files
+3. Add it to your Project Directory.
+
 
 ## Usage
 
