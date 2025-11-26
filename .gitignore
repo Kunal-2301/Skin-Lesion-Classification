@@ -1,0 +1,32 @@
+# Dataset (too large for GitHub)
+HAM10000_images_part_1/
+HAM10000_images_part_2/
+HAM10000_metadata.csv
+dataset/
+
+# Large model files
+*.h5
+best_skin_lesion_model.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
