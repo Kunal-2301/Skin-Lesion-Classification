@@ -5,7 +5,6 @@ An AI-powered skin lesion classification system that uses a custom Convolutional
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 To Download the Trained Model of this Project, visit [this link](https://drive.google.com/drive/folders/1QHJkjk5WVS-Ss3aYrkodBJjb5Frg9S0Z?usp=share_link). And Download both files and add it to your Project Directory.
 
